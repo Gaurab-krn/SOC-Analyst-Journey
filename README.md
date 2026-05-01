@@ -18,6 +18,8 @@ I'm currently seeking an entry-level SOC Analyst / Tier 1 Analyst opportunity wh
 - Splunk — SPL queries, dashboards, alert creation, log ingestion, field extraction
 - Log analysis: Windows Event Logs, Syslog, firewall logs, IDS/IPS alerts
 
+
+https://gamma.app/docs/Gaurab-Kumar-5opu9n83h0na80z
 ### SOC Core Knowledge
 - Alert triage and incident response fundamentals
 - Understanding of IOCs (Indicators of Compromise)
