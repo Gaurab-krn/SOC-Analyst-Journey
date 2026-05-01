@@ -80,7 +80,7 @@ Month 1 (Current):
 
 - Email: gaurabkarn99@gmail.com
 - LinkedIn: www.linkedin.com/in/gaurab-kumar-9824b7215
-- https://gamma.app/docs/Gaurab-Kumar-5opu9n83h0na80z
+- https://gaurab-kumar-data-xol903j.gamma.site/
   
 
 ---
