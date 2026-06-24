@@ -1,88 +1,34 @@
- # 👨‍💻 Aspiring SOC Analyst | Cybersecurity Enthusiast
+ # 🛡️ SOC Analyst Journey & Hands-on Labs
 
-> "Security is not a product, but a process." — Bruce Schneier
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Threat%20Hunting%20%26%20SIEM-blue?style=for-the-badge" />
+</p>
+
+Welcome to my central repository tracking my progress, projects, and practical labs as I train to become a Security Operations Center (SOC) Analyst. This repository serves as my living portfolio to demonstrate technical competency in defensive security operations.
 
 ---
 
 ## 🙋 About Me
-
 I'm an actively learning cybersecurity professional with a focused interest in Security Operations Center (SOC) work. Over the past month, I've been building hands-on skills in Splunk and core SOC analyst workflows — and I'm documenting everything here as I grow.
 
 I'm currently seeking an entry-level SOC Analyst / Tier 1 Analyst opportunity where I can contribute, learn fast, and protect real infrastructure.
 
 ---
 
+## 📂 Repository Structure
+
+* 📁 **[Splunk-LabS](./Splunk-LabS)**: SPL queries, event log analysis (EventID 4624/4625), and dashboard building notes.
+* 📁 **Network-Analysis** *(Coming Soon)*: Wireshark pcap analysis, packet captures, and network anomaly detection.
+* 📁 **TryHackMe-Writeups** *(Coming Soon)*: Deep dives and walkthroughs of defensive security rooms.
+
+---
+
 ## 🔧 Technical Skills
 
 ### SIEM & Log Analysis
-- Splunk — SPL queries, dashboards, alert creation, log ingestion, field extraction
-- Log analysis: Windows Event Logs, Syslog, firewall logs, IDS/IPS alerts
-
-### SOC Core Knowledge
-- Alert triage and incident response fundamentals
-- Understanding of IOCs (Indicators of Compromise)
-- MITRE ATT&CK Framework — mapping TTPs to real attack scenarios
-- Basic threat hunting methodology
-- Network traffic analysis (TCP/IP, DNS, HTTP fundamentals)
-
-### Tools & Platforms
-- Splunk (Free/Trial) — Actively Practicing
-- Kali Linux — Familiar
-- Wireshark — Familiar
-- VirusTotal / AbuseIPDB — Using Regularly
-- TryHackMe / Blue Team Labs — Active
+- **Splunk:** SPL queries, dashboards, alert creation, log ingestion, field extraction
+- **Log Analysis:** Windows Event Logs, Syslog, firewall logs, IDS/IPS alerts
 
 ---
-
-## 📁 Projects & Labs
-
-### Splunk Hands-On Labs
-- Log Analysis with Splunk — Ingested sample Windows event logs, created searches to detect failed logins and privilege escalation attempts
-- Splunk Dashboard Project — Built a security monitoring dashboard with key security metrics
-- Alert Rules — Wrote correlation searches to trigger alerts on brute-force patterns
-
-### SOC Analyst Simulation
-- Practiced alert triage using sample datasets from TryHackMe SOC Level 1 path
-- Documented investigation steps: alert → triage → investigate → escalate/close
-
----
-
-## 📚 Currently Learning
-
-- Splunk Core Certified User (exam prep in progress)
-- TryHackMe — SOC Level 1 Path
-- CompTIA Security+ (upcoming)
-- Python scripting for log parsing and automation
-
----
-
-## 📈 My Learning Journey
-
-Month 1 (Current):
-✅ Splunk fundamentals — SPL, dashboards, alerts
-✅ SOC analyst workflows and terminology
-✅ Log types and what to look for
-✅ MITRE ATT&CK basics
-🔄 Active practice on Blue Team Labs Online
-
----
-
-## 🎯 What I Bring to a SOC Team
-
-- Fast learner — went from zero to building Splunk dashboards in one month
-- Curious mindset — I dig into why alerts fire, not just that they fire
-- Documentation habit — everything I learn gets written down (see this repo!)
-- Hunger to grow — I'm not waiting for a job to start learning. I started already.
-
----
-
-## 📬 Let's Connect
-
-- Email: gaurabkarn99@gmail.com
-- LinkedIn: www.linkedin.com/in/gaurab-kumar-9824b7215
-- https://gaurab-kumar-data-xol903j.gamma.site/
-  
-
----
-
-⚡ This profile is actively being updated as I learn. Every week, something new gets added.
+📊 *To view my full portfolio summary, check out my [Interactive Portfolio Presentation](https://gaurab-kumar-data-xol903j.gamma.site/).*
