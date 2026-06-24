@@ -32,3 +32,18 @@ I'm currently seeking an entry-level SOC Analyst / Tier 1 Analyst opportunity wh
 
 ---
 📊 *To view my full portfolio summary, check out my [Interactive Portfolio Presentation](https://gaurab-kumar-data-xol903j.gamma.site/).*
+
+
+---
+
+## 📅 Daily Training Log & Milestones
+
+I dedicate **2 hours every single day** to formal, structured SOC Analyst training, mapping theoretical frameworks directly to the hands-on labs documented across this repository.
+
+| Phase / Date | Training Source | Core Focus Area & Concepts Covered | Status |
+| :--- | :--- | :--- | :--- |
+| **Daily Core** | Live SOC Academy Class | Incident Response workflows, alert triaging, and playbook execution. | 🔄 In Progress (2hrs/day) |
+| **Network** | Jeremy's IT Lab | Routing protocols, switching, VLAN security, and OSI Layer 2/3 defense. | 🔄 Active Learning |
+| **Web Sec** | PortSwigger Academy | Web application vulnerabilities (SQLi, Cross-Site Scripting). | 🎯 Deep Diving |
+| **Linux** | OverTheWire (Bandit) | Command-line mastery, log parsing (`grep`, `awk`), file permissions. | 🚀 Actively Clearing |
+| **Practical** | Let'sDefend & Splunk | Blue-team alert analysis, local log ingestion, and SIEM filtering. | 🛡️ Hands-on Labs |
